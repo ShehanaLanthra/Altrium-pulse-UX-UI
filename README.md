@@ -159,12 +159,6 @@ The original Figma design file is included in the `Figma` folder.
 
 **File:** `Altrium.Pulse.fig`
 
-## Project Status
-
-Ongoing academic UX/UI design project.
-
----
-
 ### Disclaimer
 
 This project was created as part of an academic group project. The screens and information presented in this repository are for educational and portfolio purposes.
